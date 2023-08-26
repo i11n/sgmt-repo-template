@@ -1,0 +1,11 @@
+{
+  "deno.codeLens.implementations": true,
+  "deno.codeLens.references": true,
+  "deno.codeLens.referencesAllFunctions": true,
+  "deno.codeLens.test": true,
+  "deno.enable": true,
+  "editor.tabSize": 2,
+  "deno.lint": true,
+  "deno.suggest.completeFunctionCalls": true,
+  "deno.suggest.autoImports": true
+}
